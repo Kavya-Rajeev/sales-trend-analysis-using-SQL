@@ -6,6 +6,7 @@ Analyze monthly revenue and order volume using SQL aggregations.
 
 ## Tools used:
 -MySQL Workbench
+
 -Excel
 
 ## Key SQL concepts shown:
